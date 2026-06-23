@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Satyansh 👋
 
-<!--
-**GoodFrogman7/GoodFrogman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Data Science + Economics student at Penn State University
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multi-Agent RAG Systems
+- AI Research Agents
+- LLM Evaluation Frameworks
+- Portfolio Website (EA FC Walkout Theme)
+
+## Experience
+
+### AI Engineering Intern @ Innodata
+- Built domain-aware RAG systems
+- Developed multi-agent architecture
+- Implemented evaluation pipelines
+
+## Tech Stack
+
+Python • FastAPI • LangChain • RAG • Vector Databases • AWS • Docker • React
+
+## Connect
+
+- LinkedIn
+- Portfolio
+- Email
