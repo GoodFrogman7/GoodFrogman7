@@ -22,6 +22,5 @@ Python • FastAPI • LangChain • RAG • Vector Databases • AWS • Docker
 
 ## Connect
 
-- LinkedIn
-- Portfolio
-- Email
+- LinkedIn www.linkedin.com/in/satyansh-tripathi-8601bb22a
+- Leetcode https://leetcode.com/u/satyanshtrippy8/
