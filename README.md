@@ -7,14 +7,6 @@ Computational Data Science + Economics student at Penn State University
 - Multi-Agent RAG Systems
 - AI Research Agents
 - LLM Evaluation Frameworks
-- Portfolio Website (EA FC Walkout Theme)
-
-## Experience
-
-### AI Engineering Intern @ Innodata
-- Built domain-aware RAG systems
-- Developed multi-agent architecture
-- Implemented evaluation pipelines
 
 ## Tech Stack
 
